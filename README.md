@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on projects which are based on ReactJS
 - 🌱 I’m currently learning Typescript, React Query
-- 🤔 I’m looking for help with architectures and system desgign
+- 🤔 I’m looking for help with architectures and system design
 - ⚡ Fun fact: Can throw paperplanes upto 32m! 😉
 
 
